@@ -83,5 +83,7 @@ Load Characteristics:
 ![load circuit 1](https://github.com/user-attachments/assets/2f55679c-dc07-49d3-881c-58ed83aa389d)
 
 
+
+
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
