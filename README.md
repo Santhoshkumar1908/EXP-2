@@ -76,6 +76,9 @@ Open circuit characteristics
 
 ![open circuit ](https://github.com/user-attachments/assets/516b9ec4-736d-462b-9a6e-28c50feeb218)
 
+
+
+
   
 Load Characteristics:
 
